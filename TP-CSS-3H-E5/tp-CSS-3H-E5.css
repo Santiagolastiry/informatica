@@ -1,0 +1,28 @@
+h2 {
+    color: turquoise;
+}
+
+span {
+    color: red;
+}
+p {
+    color:rgb(111, 0, 255);
+}
+h1 ¨{
+    color: brown;
+}ç
+
+li {
+    color:peru;
+}
+
+body {
+    font-family: 'Times New Roman', Times, serif
+}
+img {
+ width: 15cm;
+ height: auto;
+}
+ul {
+    list-style-type: lower lower-roman;
+}
